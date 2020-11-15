@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "title": "First",
+      "description": "Stream",
+      "id": 1
+    },
+    {
+      "title": "Second",
+      "description": "Stream",
+      "id": 2
+    },
+    {
+      "title": "the stream hello",
+      "description": "is without a user world",
+      "id": 5
+    },
+    {
+      "title": "this ",
+      "description": "is test",
+      "id": 6
+    },
+    {
+      "title": "hello",
+      "description": "this  is my first stream",
+      "userId": "110901956835384077585",
+      "id": 7
+    }
+  ]
+}
